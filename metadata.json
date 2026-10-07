@@ -1,0 +1,6 @@
+{
+  "name": "World Cuisines Recipe App",
+  "description": "Explore global cuisines with curated traditional dishes, detailed ingredient weights, and granular step-by-step cooking instructions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
